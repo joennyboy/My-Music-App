@@ -1,0 +1,29 @@
+<resources>
+
+    <string name="app_name">My Music App</string>
+    <string name="back"><![CDATA[>]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+    <string name="text_media_activity"></string>
+    <string name="order">ORDER NOW</string>
+    <string name="homescreen">JONATINO AUDIO PLAYER</string>
+    <string name="duration">songDuration</string>
+    <string name="anita">ANITA BAKER</string>
+    <string name="list">Play List</string>
+    <string name="mop">Song.Mp3</string>
+    <string name="playlist">PLAYLIST</string>
+    <string name="playnow">PLAYING SONG</string>
+    <string name="payment">PAYMENT ACTIVITY</string>
+    <string name="yes">Pay £3 one time payment to my paypal account(jonatino)</string>
+    <string name="nita">Anita Baker</string>
+    <string name="sweety">Sweet Love</string>
+    <string name="singing">Song Name</string>
+    <string name="artist">Artist Name</string>
+    <string name="playing">PLAYING SCREEN</string>
+    <string name="nowplaying">The playing screen will use MediaPlayer class to play the audio and Media controller class to control playback.  The  Playing Song Activity also have the home image when clicked takes the activity backto the Main Activity screen.  It also have a search bar at the top which can be used to search for music media and artist in the app devise directly.</string>
+    <string name="statement">In this activity I shall be using the Braintree android SDK. This library will help accept Card and alternative payments for the music app. Payment to Paypal is more convenient using this Library. The Order now botton when clicked open this library. The Payment Activity also have an arrow button which linked back to the Home screen </string>
+    <string name="statement1">The Main Activity consists of several buttons. The activity consists of the playlist button, when clicked takes one to the PlayList activity which contained lists of songs in arrays.The Main Activity also have a forward, backward, play and pause button which controls the media and songs directly from the raw folder.The Activity also have the Songduration which states exactly the duration of the song when the play button is clicked considerably.The Main Activity also contains the Order now button which link to the payment activity.</string>
+    <string name="statement2"> The PlayList Activity contains list of music in arrays. The list of music is clickable and takes you to the Playing song Activity once it is clicked.
+    The Activity also have an arrow button which takes you to the Main Activity when clicked.</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#c4c8dc</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorButton">#33FFFFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#FFFF00</color>
+    <color name="tan_background">#FFF7DA</color>
+    <color name="category_numbers">#FD8E09</color>
+    <color name="color">#333333</color>
+    <color name="category_report">#FD8E09</color>
+    <color name="colors">#f3f3f3</color>
+    <color name="black">#000000</color>
+    <color name="myYellow">#FCF7C2</color>
+
+</resources>
